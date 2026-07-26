@@ -1,6 +1,6 @@
 
 
-<h3 align="left">&nbsp; A passionate Full-Stack developer from Türkiye</h3>
+<h3 align="left">&nbsp; A passionate ceo</h3>
 
 - 🔭 I’m currently working on **...**
 - 📫 How to reach me **mention0134@gmail.com**
