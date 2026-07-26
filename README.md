@@ -1,4 +1,3 @@
-![MasterHead](https://github.com/mrcv0/mrcv0/raw/main/img/mrcbannergithubv1.png)
 
 
 <h3 align="left">&nbsp; A passionate Full-Stack developer from Türkiye</h3>
