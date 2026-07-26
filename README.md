@@ -7,10 +7,7 @@
 
 <h3 align="left">&nbsp; A passionate Full-Stack developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **Javascript**
-
-- 💬 Ask me about **Full-Stack App**
-
+- 🔭 I’m currently working on **...**
 - 📫 How to reach me **mention0134@gmail.com**
 
 <p align="left">
